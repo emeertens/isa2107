@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&family=Titillium+Web:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+body {
+    width: 100%;
+    background-color: #CCCCFF;
+    padding: 0 0 0 0;
+   /* border: 1px solid black;
+    border-bottom-style: none;*/
+}
+
+.container{
+    margin-left:5%;
+    margin-right:5%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+.content{
+    max-width:35%;
+}
+
+.headercontainer{
+    display:flex;
+    flex-direction:row;
+    margin-left:20%;
+}
+
+.header{
+    font-family: Zen Tokyo Zoo, Helvetica, sans-serif;
+    font-size: 4em;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+header a{
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+}
+
+header a:hover{
+    background-color:  #CCCCFF;
+    color: rgb(230, 29, 15);
+}
+
+.navButton a{
+    font-family: Titillium Web, Helvetica, sans-serif;
+    font-size:2em;
+    text-decoration:none;
+    color: rgb(20, 20, 20);
+    margin-left:35%;
+}
+
+p{
+    font-family: Roboto Mono;
+}
+
+
