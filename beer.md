@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 author: izabela
-image: /assets/beer.png
+image: assets/beer.png
 title: beer
 ---
 
