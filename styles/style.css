@@ -46,12 +46,27 @@ header a:hover{
     color: rgb(230, 29, 15);
 }
 
+.header a:active {
+    background-color: #CCCCFF;
+    color: rgb(173, 66, 58);
+}
+
 .navButton a{
     font-family: Titillium Web, Helvetica, sans-serif;
     font-size:2em;
     text-decoration:none;
     color: rgb(20, 20, 20);
     margin-left:35%;
+}
+
+.navButton a:hover{
+    background-color: #CCCCFF;
+    color: rgb(230, 29, 15);
+}
+
+.navButton a:active {
+    background-color: #CCCCFF;
+    color: rgb(173, 66, 58);
 }
 
 p{
